@@ -96,7 +96,7 @@
                         <h4>We cook delecious</h4>
                         <div class="contact-content">
                             <span>You can call us on:</span>
-                            <h6>9490881902</h6>
+                            <h6>9848951988</h6>
                         </div>
                         <span>or</span>
                         <div class="primary-white-button">
